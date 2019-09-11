@@ -7,7 +7,7 @@ https://inst.eecs.berkeley.edu/~cs61a/su18/proj/hog/
 maps: create a visualization of restaurant ratings using machine learning and the Yelp academic dataset
 https://inst.eecs.berkeley.edu/~cs61a/su18/proj/maps/
 
-ants: create a tower defense game called Ants Vs. SomeBees
+ants: create a tower defense game called Ants Vs. SomeBees               
 https://inst.eecs.berkeley.edu/~cs61a/su18/proj/ants/
 
 scheme: develop an interpreter for a subset of the Scheme language
