@@ -1,5 +1,5 @@
 # SICP-Projects
-Projects for UC Berkeley Structure and Interpretations of Computer Programs 
+Structure and Interpretations of Computer Programs 
 
 hog:  develop a simulator and multiple strategies for the dice game Hog
 https://inst.eecs.berkeley.edu/~cs61a/su18/proj/hog/
